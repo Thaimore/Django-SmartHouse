@@ -1,7 +1,8 @@
 Coursera House
 ==============
 
-Это шаблон курсового проекта от преподавателей курса.
+Курсовой проект Coursera House. 
+Курс: https://www.coursera.org/learn/python-for-web/programming/xXkO6/kursovoi-proiekt-web-prilozhieniie-dlia-upravlieniia-umnym-domom
 
 
 Установка
